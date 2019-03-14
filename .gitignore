@@ -1,0 +1,8 @@
+README.markdown
+README.markdown~
+.README.markdown.un~
+__pycache__
+*.un~
+*.txt~
+*.md~
+*.py~
